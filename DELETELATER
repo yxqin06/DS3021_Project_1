@@ -1,0 +1,23 @@
+Variables that are meaningful to mortality analysis
+
+These are actual urinary metabolite concentrations (exposure biomarkers). They can be linked to mortality indirectly, mainly as markers of caffeine intake and metabolism.
+
+Xanthines (most relevant)
+
+These are the strongest candidates because caffeine exposure has known associations with cardiovascular and all-cause mortality.
+
+SSMX7 – 1,3,7-trimethylxanthine (caffeine)
+
+SSMX5 – 1,7-dimethylxanthine (paraxanthine, primary caffeine metabolite)
+
+SSMX4 – 1,3-dimethylxanthine (theophylline)
+
+SSMX6 – 3,7-dimethylxanthine (theobromine)
+
+SSMX1 – 1-methylxanthine
+
+SSMX2 – 3-methylxanthine
+
+SSMX3 – 7-methylxanthine
+
+These are typically the core exposure variables used in NHANES caffeine–mortality studies.
